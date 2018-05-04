@@ -61,7 +61,7 @@ a:focus {
 }
 
 @media (min-width: 48em) {
-   .welcomehead-brand {
+   .header-brand {
       float: left;
    }
    .nav-welcomehead {
