@@ -7,13 +7,13 @@ h2,
 h3,
 h4, 
 h5 {
-   color:#212121 !important;
+   color:#000 !important;
    font-weight: 300;
    font-family: 'open sans', sans-serif;
 }
 
 p{
-   color: #212121;
+   color: #000;
    font-weight: 300;
    font-family: 'open sans', sans-serif;
 }
@@ -37,7 +37,7 @@ p{
 
 /* designelement */
 .row-primary {
-   background-color: #3F51B5;
+   background-color: #75a6ea;
 	-webkit-clip-path: polygon(0 0%, 100% 4%, 100% 96%, 0% 100%);
 	clip-path: polygon(0 0%, 100% 4%, 100% 96%, 0% 100%);
    padding: 65px 10px;
@@ -71,4 +71,8 @@ p{
 .btn-launch:focus {
    color:#212121;
    background: #465B66;
+}
+
+.techlogo{
+   width: 100px;
 }
