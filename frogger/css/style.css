@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+
+header {
+    display: block;
+    width: 80%;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 10%;
+    top: 0;
+}
+
+.game-data {
+    display: inline-block;
+    width: 33%;
+    color: #07090a;
+    font-family: "brandon-grotesque", Arial, Helvetica, sans-serif;
+}
+
+#heart {
+    color: #aa0808;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0 1em;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 15px;
+}
+
+.modal-footer {
+    text-align: center;
+}
+
+.char-elem {
+    cursor: pointer;
+}
+
+.char-selected {
+    background-color: #a7f7a2;
+}
