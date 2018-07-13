@@ -8,7 +8,7 @@ In this project we were given a web-based application that reads RSS feeds. Than
 - if downloaded unzip the file then navigate to that location 
 - if cloned naviage to that location
 - open index.html in your web browser 
-- or you can use this link [Feed Reader Testing](https://chisjulson.github.io/feedreader/index.html)
+- or you can use this link [Feed Reader Testing](https://chrisjulson.github.io/feedreader/index.html)
 
 ## What was used to produce this: 
 - HTML/CSS
